@@ -1,4 +1,4 @@
-TEX_FILE := uno.tex 
+TEX_FILE := licencia.tex 
 
 
 
@@ -11,7 +11,7 @@ doc:
 	pdflatex $(TEX_FILE)
 
 display:
-	evince uno.pdf
+	evince licencia.pdf
 
 check:
 	aspell -c -l es $(TEX_FILE)

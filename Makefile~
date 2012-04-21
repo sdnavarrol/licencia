@@ -1,9 +1,9 @@
-TEX_FILE := uno.tex 
+TEX_FILE := licencia.tex 
 
 
 
 
-all: clean doc display
+all: doc display
 
 clean:
 	rm *.pdf
