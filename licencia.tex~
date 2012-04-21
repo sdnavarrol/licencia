@@ -1,0 +1,131 @@
+
+\documentclass[journal]{./oldtran/IEEEtran}
+\usepackage[pdftex]{graphicx}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\begin{document}
+\title{Política ambiental y energética del Plan Nacional de Desarrollo 2010-2014}
+\author{Sergio Navarro Lopez Cod. 260739  Andrés Casas Cod. 260871 }
+\markboth{Energía y Ambiente}%
+{Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for Journals}
+
+\maketitle
+
+
+\begin{abstract}
+En este documento se busca dar a conocer los aspectos generales del Plan Nacional de Desarrollo 2010-2014, propuesto por el actual Presiente de la República, concernientes a tema ambiental y energético del país.
+\end{abstract}
+
+\begin{IEEEkeywords}
+\end{IEEEkeywords}
+
+\IEEEpeerreviewmaketitle
+%
+%\begin{figure}
+ %\resizebox{80mm}{60mm}{\includegraphics{./images/snubber.png}}
+%\caption{Snubber RC}
+%\label{proy:snubber}
+%\end{figure}
+%
+
+
+
+
+\section{Ambiente}
+
+En la pagina de información del PND, se encuentran disponibles documentos donde se explica detalladamente este plan. En el capitulo correspondiente a ambiente y gestión del riesgo, se describe a la situación actual en este ámbito, donde se encuentra un análisis de los actuales problemas ambientales del país y las medidas que se tomaran para contrarrestar estas situaciones.
+
+En el Plan Nacional de Desarrollo, se encuentra el capitulo 7. En este documento se hace un balance de la ola invernal que se presenta desde el año 2010, resaltando la necesidad de modificar en cierta medida el PND. 
+
+Se menciona también, que el acelerado desarrollo económico lleva consigo deterioro ambiental, mostrando también algunas cifras relacionadas con las tasas de erosión que se presentan en algunas regiones.
+
+También se presente una descripción a grandes rasgos de la cantidad de recursos naturales con los que cuenta el país, haciendo énfasis en su importancia para el país.
+
+Uno de los párrafos del resumen ejecutivo del Plan Nacional de Desarrollo, resalta la situación de las sustancias químicas empleadas en procesos de producción, dando mayor importancia a los residuos de la minería, relacionando este fenómeno con la situación de minería ilegal que vive el país.
+
+EL recurso hídrico cobra gran importancia en este  plan, mencionando también algunos indicadores de la situación hídrica del país, identificando además que en los lugares de mayor desarrollo económico es donde se encuentran los mayores focos de contaminación.
+
+Involucrando también los procesos desordenados de urbanización que se han desarrollado en el país, se da a conocer los efectos que tienen sobre el paisaje, biodiversidad, espacio publico, calidad del aire, disponibilidad de suelo, conectado esta situación con la reciente ola invernal.
+
+Durante el desarrollo del documento, se hace relación entre el cambio climático y la ola invernal que afecta considerablemente al país los últimos años. Muestra cifras de la emisión de GEI, situando a Colombia en uno de los países con mas bajo impacto en el fenómeno del calentamiento global.
+
+Se propone hacer frente al fenómeno del cambio climático, mediante la reducción de GEI a través de la búsqueda de una mayor eficiencia en la canasta energética. Menciona que entidades como el IDEAM han emitido registros de aumento de temperatura, cambio en los patrones de precipitación y aumento del nivel del mar en algunas regiones.
+
+Como medida para garantizar la sostenibilidad del desarrollo económico y social del país, resulta urgente la incorporación de medidas que tiendan a reducir la vulnerabilidad frente al riesgo de desastre.
+
+
+\section{Sostenibilidad ambiental}
+
+EL gobierno actual, mediante su plan nacional de desarrollo, hace un inventario del estado actual de los recursos ambientales de Colombia y también sustenta gran parte de sus lineamientos mediante la preparación y gestión del riesgo de desastre y las múltiples causas de estos eventos, una de ellas el cambio climático. Se hace un balance de los resultados de la ultima ola invernal, mostrando su gran magnitud respecto a otras temporadas similares en años anteriores. 
+
+
+Una de las ideas que se desarrollan a continuación en este capitulo, la gestión ambiental y compartida, toma como argumento la relación directa que existe entre el deterioro ambiental y la pobreza. En base a esto, recuerda la clara relación que existe entre la conservación del patrimonio natural, el crecimiento de la economía, la equidad social y la competitividad.
+
+
+Sugiere también que el futuro ambiental de Colombia depende de la calidad del desempeño general de la economía y el fortalecimiento de la democracia. Con un crecimiento económico debe estar ligado un crecimiento en los cambios tecnológicos del sector de la producción, permitiendo una mejor eficiencia para minimizar el deterioro ambiental.
+
+EL plan de crecimiento económico para el país, propuesto para crecer 1.7 por ciento al año, el cual estaría compuesto por el aumento del sector minero energético, explotación de mas reservas petroleras, construcción de infraestructura petrolera, aumento de la producción agropecuaria.
+
+La explotación de los recursos naturales han generado un gran deterioro ambiental. Se menciona que los sistemas productivos están en áreas vulnerables a la desertificaron y erosión.
+
+Recuerda que la legislación colombiana prohíbe realizar actividades de gran escala en zona de alta importancia ecológica, pero para lograr este cometido, se necesita establecer una estructura bien organizada para regular estas actividades.
+
+
+Para mitigar estos efectos en la biodiversidad y los servicios eco sistémicos, se propone realizar la identificación y la caracterización de los servicios eco sistémicos que dependen de las locomotoras. También la definición de una Estructura Ecológica, para incorporarla en planes e instrumentos de planificación sectorial y territorial. En esta definición se busca:
+
+\begin{itemize}
+\item Delimitación de paramos y humedales, deslinde de humedales, zonificación y ordenación de reservas forestales
+\item Realizar una estrategia para considerar estrategias ambientales en toma de decisiones privadas sobre ubicación elementos de producción
+\item Definir e implementar una política nacional para la gestión integral de biodiversidad y sus servicios eco sistémicos.
+\item Implementar una política nacional para el desarrollo de los espacios oceánicos y las zonas costeras o insulares.
+\item Implementar el Plan Nacional de Restauración Recuperación y Rehabilitación de Ecosistemas.
+\item Consolidar el SINAP Sistema Nacional de Áreas Protegidas
+\item Mejorar gestión de parques naturales
+\item Mejorar relación con grupos étnicos
+\item Generar una política para la conservación de los recursos hidrológicos
+\item Implementar el Plan Nacional para el control de las especies invasoras, exóticas y trasplantadas
+\item Elaborar programas de conservación de especies amenazadas.
+\item Dar continuidad a los programas de inventario sobre diversidad
+\item Promover esquemas de cuentas ambientales
+\item Avanzar en proyectos estratégicos con criterios de sostenibilidad
+
+\end{itemize}
+
+En la parte de gestión integral del recurso hídrico, nuevamente realiza un inventario de estos recursos y los posibles elementos que podrían afectarlos. Entre estos factores se encuentran el clima, la erosión, pobre cobertura vegetal y presión antropica.
+
+Mediante la gestión ambiental sectorial y urbana, también se busca mitigar el deterioro ambiental, ubicando o sectorizando zonas del país donde se puede hacer frente a este tipo de deterioro.
+
+
+\section{Energía}
+En el PND se dice que el sector minero-energético es la quinta locomotora con unos altos porcentajes de participación en inversión extranjera y exportaciones.
+Dentro de sus necesidades se encuentra la inversión tanto nacional y extranjera, que diríamos nosotros, debería  ser  preferiblemente nacional para que la rentabilidad obtenida por este sector sea dinero que se quede en el país y no sea una fuga de capital, eso sí con reglas que sean justas tanto para el país y como para el inversor (ya sea nacional o extranjero).
+Otra de las necesidades es el desarrollo de clústers basados en bienes y servicios de alto valor agregado en torno a los recursos minero-energéticos, lo cual es bastante lógico y pertinente,  pues con una gran cantidad de recursos naturales, lo ideal es obtener la mayor eficiencia y rentabilidad  posible, y teniendo los medios económicos para tener un clister basados en  bienes y servicios, sería un sector de desarrollo para  el país. 
+Finalmente la última necesidad según el PND es acerca del diseño e implementación de políticas para enfrentar los retos que se derivan del auge de recursos naturales, eso sí debe ser hecho de la manera más transparente posible en la que los beneficiados sean directamente la población del país.
+
+Por otro lado,  dentro de los planes del gobierno para la implementación de las políticas energéticas,  que se traducen en ajustes institucionales,  en el mercado, en  la cadena productiva y en la destinación de ciertos recursos hacia la población más vulnerable, todas las políticas son bienvenidas mientras el principal objetivo sea el de  favorecer las arcas del país, aumentar el PIB, hacer más eficiente el consumo de energía y llegar a la población menos favorecida,  pero si éstas políticas son llevadas a cabo para el favorecimiento de unos pocos privados, los objetivos que se mencionan al principio del PND  no estarían siendo cumplidos en su totalidad.
+
+Dentro de las políticas energéticas se establece que debe haber un intercambio de información entre los sectores ambientales y minero-eléctrico para la toma importante de decisiones, pues es lo más conveniente cuando el objetivos es el desarrollo de proyectos sostenibles y amigables con el medio ambiente.
+
+
+
+\section{Conclusiones}
+
+
+Dentro del PND, se establecen objetivos para que el “manejo”  de los elementos energéticos sea eficiente. Se establecen procedimientos, políticas y creación de entes que se encarguen del manejo de los recursos, como lo son: biocombustibles, la energía eléctrica, el gas, los hidrocarburos, el carbón. 
+De lo dicho anteriormente es necesario que todas las medidas que planea tomar el gobierno para que las metas sean alcanzadas tanto a nivel energético como ambiental sean acompañados por mecanismos de control que se encarguen de la supervisión y de que el establecimiento de las políticas sea coherente con las metas propuestas.
+
+
+Respecto al tema ambiental, se puede observar que se tiene un gran conocimiento de las necesidades ambientales de nuestro país, sin embargo no están muy claros y puntuales los lineamientos y estrategias a desarrollar. Se puede encontrar una sección del documento que tiene como subtitulo estas dos frases, pero ella no tiene finalmente información concreta de las acciones a tomar para cada uno de los problemas y necesidades que se desarrollan en el texto.
+
+También es posible suponer y quizás anticipar, una tensión entre el aspecto energético y ambiental, dado que algunos de los interesados en estos tópicos, solo buscan lograr los mayores índices de productividad sin tener en cuenta la fragilidad de los recursos naturales y el trabajo que requiere desarrollar acciones correctivas respecto a mantener una política preventiva y vigilante.
+
+
+Es buena señal observar una tendencia a participar en los mercados de carbono, al mencionar financiación por parte de los países desarrollados y también por la creación de stocks de carbono, como reservas forestales que permitan reducir la cantidad de emisiones en la atmósfera.
+
+
+\begin{thebibliography}{1}
+\bibitem{Libro1} Plan Nacional de Desarrollo 2010 - 2014 Prosperidad para todos -  Descargado en : www.dnp.gov.co
+\end{thebibliography}
+\end{document}
+
+
